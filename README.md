@@ -1,4 +1,4 @@
-# Ejemplo  PHP 
+# Ejemplo  PHP y Base de Datos
 
 <!--
 *** Se usa como template - https://github.com/othneildrew/Best-README-Template
