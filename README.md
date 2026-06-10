@@ -60,7 +60,7 @@ La base de datos tiene las siguiente entidades:
 ![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/diagrama.png) 
 
 3. Agregar la carpeta **ejemplo-php-002** ([https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002](https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002) https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002) ; en su servidor web en su máquina local. Usted puede usar Xampp, Apache, Nginx.
-4. Agregar la información necesaria para la conexión a la base de datos. Modificar el archivo **basedatos.php** que está en la carpeta **ejemplo-php-002** 
+4. Agregar la información necesaria para la conexión a la base de datos. Crear y modificar el archivo **basedatos.php** que está en la carpeta **ejemplo-php-002** , en función de **basedatos.php.plantilla**
 ```php
 <?php
   // datos para enlace la base de datos
@@ -98,6 +98,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contacto
 
 René Elizalde Solano - [@reroes](https://twitter.com/reroes) - rrelizalde@utpl.edu.ec
-
-
-
